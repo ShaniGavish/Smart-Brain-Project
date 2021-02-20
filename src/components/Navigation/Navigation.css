@@ -1,0 +1,19 @@
+.nav-container {
+    height: 200px;
+}
+
+.main-nav {
+    display: flex;
+  }
+
+.nav-bt {
+    padding: 30px;
+    cursor: pointer;
+    font-size: 18px;
+    display: block;
+}
+
+.nav-bt:hover {
+    color: slategrey;
+    transition: color .20s ease-in;
+}
